@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim Leaf
-- 👀 I’m interested in developing apps
-- 🌱 I’m currently learning swift development
+- 👀 I’m interested in physics simulations
+- 🌱 I’m currently learning C++ development
 
 <!---
 TimLeaf3/TimLeaf3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
